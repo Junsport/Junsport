@@ -1,6 +1,5 @@
 <img src="https://user-images.githubusercontent.com/97995701/173208101-dc7bf150-07ad-48d1-8687-b9edf858368e.png" style="max-width: 100%;" width="100%">
 
-<h1 align="center">Hi 👋, I'm Sergio Flores</h1>
 <h3 align="center">A passionate Software Engineer from Los Angeles, California</h3>
 
 - 🌱 I’m currently learning **Javascript, Node.js, React, MongoDB**
