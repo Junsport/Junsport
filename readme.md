@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/97995701/173208101-dc7bf150-07ad-48d1-8687-b9edf858368e.png" style="max-width: 100%;" width="100%">
+<img src="https://user-images.githubusercontent.com/97995701/175436984-b300d098-dff5-42be-a0b8-08c22ee5b4a0.png" style="max-width: 100%;" width="100%">
 
 <h3 align="center">A passionate Software Engineer from Los Angeles, California</h3>
 
