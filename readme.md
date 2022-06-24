@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate Software Engineer from Los Angeles, California</h3>
 
-- 🌱 I’m currently learning **Javascript, Node.js, React, MongoDB**
-
 - 📫 How to reach me **jun837223@gmail.com**
 
 <h3 align="left">Connect with me:  jun837223@gmail.com</h3>
