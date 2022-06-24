@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate Software Engineer from Los Angeles, California</h3>
 
-- 📫 How to reach me **jun837223@gmail.com**
+- <h3>📫 Connect with me jun837223@gmail.com</h3>
 
-<h3 align="left">Connect with me:  jun837223@gmail.com</h3>
+
 <p align="left">
 </p>
 
