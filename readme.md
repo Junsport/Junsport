@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Engineer from Los Angeles, California</h3>
 
-- <h3 align="center">📫 Connect with me <a href="jun837223@gmail.com">jun837223@gmail.com</a></h3>
+- <h3 align="center">📫 Connect with me jun837223@gmail.com"</h3>
 
 
 <p align="center">
